@@ -1,10 +1,8 @@
 # 💫 About Me
-Hey there! 🖐️ I'm **Fatemeh Shojaei**, a passionate Front-End Developer with 7+ years of experience in building responsive, interactive, and high-performance web applications.  
-I love turning ideas into clean, scalable, and user-friendly web experiences. 👩‍💻
- 
-I enjoy exploring modern front-end architectures, state management with **Redux** and **React Query**, and building **Progressive Web Apps (PWAs)**. 🚀  
+Hey there! 🖐️ I'm **Fatemeh Shojaei**
 
-When I'm not coding, I'm thinking about performance optimization, accessibility, and ways to make user experiences seamless and delightful. 🌐✨
+👩‍💻 Front-End Developer  
+⚙️ Mastering: React.js, Next.js, TypeScript, Redux, React Query  
 
 ---
 

@@ -95,13 +95,4 @@ Hey there! 🖐️ I'm **Fatemeh Shojaei**
 
 
 
-
-
----
-
-## 📊 GitHub Stats
-![Fatemeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatemeShj&show_icons=true&theme=radical)
-
----
-
 > "Passionate about building web apps that are clean, scalable, and user-friendly."

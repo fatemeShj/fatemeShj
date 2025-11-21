@@ -71,25 +71,26 @@ Hey there! 🖐️ I'm **Fatemeh Shojaei**
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
-  <!-- Main Stats -->
+
   <img 
     src="https://github-readme-stats.vercel.app/api?username=fatemeShj&show_icons=true&theme=radical" 
     height="170"
   />
 
-  <!-- Most Used Languages -->
+
+  <img
+    src="https://streak-stats.demolab.com?user=fatemeShj&theme=radical"
+    height="170"
+  />
+
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemeShj&layout=compact&theme=radical" 
     height="170"
   />
 
-  <!-- Streak Stats (Contributions) -->
-  <img
-    src="https://streak-stats.demolab.com?user=fatemeShj&theme=radical"
-    height="170"
-  />
+
 
 </div>
 

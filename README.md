@@ -43,9 +43,6 @@ Hey there! 🖐️ I'm **Fatemeh Shojaei**
   <!-- Express  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
 
-  <!-- Strapi -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" width="45" />
-
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
 

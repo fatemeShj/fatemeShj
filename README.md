@@ -15,7 +15,7 @@ When I'm not coding, I'm thinking about performance optimization, accessibility,
 
 ## 💻 Tech Stack
 
-### **Frontend**
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />

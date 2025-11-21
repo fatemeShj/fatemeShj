@@ -1,5 +1,5 @@
 # 💫 About Me
-Hey there! 🖐️ I'm **Fatemeh Shojaei**
+Hey there! 🖐️ I'm **Fatemeh**
 
 👩‍💻 Front-End Developer  
 ⚙️ Mastering: React.js, Next.js, TypeScript, Redux, React Query  
